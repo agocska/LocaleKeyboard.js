@@ -71,7 +71,7 @@ const uint8_t _asciimap[128] =
   0x24|SHIFT,      // =
   0x1d,            // >
   0x36|SHIFT,      // ?
-  0x19,      // @  0x1f|SHIFT
+  0x19,           // @  
   0x04|SHIFT,      // A
   0x05|SHIFT,      // B
   0x06|SHIFT,      // C
@@ -128,12 +128,12 @@ const uint8_t _asciimap[128] =
   0x19,          // v
   0x1a,          // w
   0x1b,          // x
-  0x1d,          // y fixed
-  0x1c,          // z fixed
-  0x05,    // { fixed
-  0x1a,    // | fixed
-  0x11,    // } fixed
-  0x1e,    // ~ fixed
+  0x1d,          // y
+  0x1c,          // z
+  0x05,    // {
+  0x1a,    // |
+  0x11,    // }
+  0x1e,    // ~
   0        // DEL
 };
 
